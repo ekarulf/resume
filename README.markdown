@@ -1,4 +1,4 @@
-This is the place-holder project for my personal resume.
+This is the place-holder project for my [personal resume][resume].
 
 The version uploaded to GitHub is sanitized to keep my personal contact information private. If you are interested in a complete resume, please send me an email ([erik@karulf.com][email]).
 
@@ -17,6 +17,7 @@ Credits
  * Template: [moderncv][]
 
 
+[resume]: http://erik.karulf.com/erik_karulf_resume.pdf
 [LaTeX]: http://www.latex-project.org/
 [moderncv]: http://tug.ctan.org/tex-archive/macros/latex/contrib/moderncv/
 [LinkedIn]: http://www.linkedin.com/in/ekarulf
